@@ -9,41 +9,40 @@ Kriteria
 
 Fitur yang harus ada pada aplikasi:
 
-    Daftar Film
+  1. Daftar Film
     Syarat:
-        Menggunakan ListView untuk menampilkan daftar film dengan jumlah minimal 10 item.
+       - Menggunakan ListView untuk menampilkan daftar film dengan jumlah minimal 10 item.
 
-    Detail Film
+  2. Detail Film
     Syarat:
-
-        Menampilkan poster dan informasi film pada halaman detail film.
-
-        Menggunakan Parcelable sebagai interface dari obyek data yang akan dikirimkan antar Activity.
+       - Menampilkan poster dan informasi film pada halaman detail film.
+       - Menggunakan Parcelable sebagai interface dari obyek data yang akan dikirimkan antar Activity.
         
-Kesempatan untuk submission Anda diterima, akan lebih besar jika:
+3. Kesempatan untuk submission Anda diterima, akan lebih besar jika:
 
-    Menerapkan mekanisme Intent dengan baik dan benar.
-    Menuliskan kode dengan bersih.
+   - Menerapkan mekanisme Intent dengan baik dan benar.
+   - Menuliskan kode dengan bersih.
 
 
-Submission Anda akan ditolak jika:
+4. Submission Anda akan ditolak jika:
 
-    Tidak menggunakan ListView untuk menampilkan daftar film.
+    - Tidak menggunakan ListView untuk menampilkan daftar film.
 
-    List yang ditampilkan kurang dari 10 item.
+    - List yang ditampilkan kurang dari 10 item.
 
-    Tidak menerapkan Parcelable sebagai interface dari obyek data yang akan dikirimkan antar Activity.
+    - Tidak menerapkan Parcelable sebagai interface dari obyek data yang akan dikirimkan antar Activity.
 
-    Poster tidak berhasil ditampilkan.
+    - Poster tidak berhasil ditampilkan.
 
-    Informasi yang ditampilkan pada daftar ataupun detail film, tidak relevan.
+    - Informasi yang ditampilkan pada daftar ataupun detail film, tidak relevan.
 
-    Proyek tidak berhasil di-build.
+    - Proyek tidak berhasil di-build.
 
-    Aplikasi force closed.
+    - Aplikasi force closed.
 
-    Mengirimkan file selain proyek Android Studio.
+    - Mengirimkan file selain proyek Android Studio.
 
-    Mengirimkan proyek yang bukan karya sendiri.
+    - Mengirimkan proyek yang bukan karya sendiri.
+    Aset poster film dapat diunduh pada tautan ini. 
 
 
