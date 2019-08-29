@@ -43,6 +43,5 @@ Fitur yang harus ada pada aplikasi:
     - Mengirimkan file selain proyek Android Studio.
 
     - Mengirimkan proyek yang bukan karya sendiri.
-    Aset poster film dapat diunduh pada tautan ini. 
 
 
