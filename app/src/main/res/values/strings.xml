@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">Layar Movie</string>
-    <string name="name_movies">Nama Movies</string>
-    <string name="desc_movies">Description Movies</string>
-    <string name="date_movies">Date Movies</string>
-    <string name="movies_photo">Movies_Photo</string>
+    <string name="app_name">Layar Film</string>
+    <string name="name_movies">Nama Film</string>
+    <string name="desc_movies">Deskripsi Film</string>
+    <string name="date_movies">Tanggal Film</string>
+    <string name="movies_photo">Foto Film</string>
 
     <string-array name="movie_name">
         <item>Avengers: Infinity War</item>
